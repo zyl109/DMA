@@ -1,10 +1,10 @@
 # DMA
 
 1. Please use makefile to compile the DMA
-<p>make</p>
+<code>make</code>
 
 2. run DMA to get the vcd file
-<p>./DMA</p>
+<code>./DMA</code>
 
 3. use simulator, like nWave to see the waveform
-<p>nWave &</p>
+<code>nWave &</code>
