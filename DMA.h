@@ -1,3 +1,5 @@
+//some comment
+
 #include "systemc.h"
 
 SC_MODULE(DMA) {
@@ -18,6 +20,7 @@ SC_MODULE(DMA) {
 	bool START;
 	bool interruptReg;
 	void runDMA();
+	void test ;	
 	
 	SC_CTOR(DMA) {
 		SC_CTHREAD (runDMA, clk.pos());
