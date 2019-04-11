@@ -1,6 +1,6 @@
 # DMA
 
-1. Please use makefile to compile the DMA<br />
+1. Please use makefile to compile the DMA  
 <code>make</code>
 
 2. run DMA to get the vcd file<br />
